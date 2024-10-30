@@ -1,6 +1,6 @@
 %YAML:1.0
 ---
-model_type: EQUI
+model_type: equidistant
 camera_name: camera
 image_width: 640
 image_height: 480
